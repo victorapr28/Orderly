@@ -3,7 +3,7 @@
 オンラインのケーキ販売サイトです。商品一覧・詳細、カート、購入、履歴、ログイン／お気に入りを実装しています。
 
 **デモURL**  
-- https://hacca-aso2401360.ssl-lolipop.jp/2025/php2/orderly/
+- https://hacca-aso2401360.ssl-lolipop.jp/orderly/
 
 ## 概要
 - 商品を閲覧・検索し、カートに追加して購入できます。
